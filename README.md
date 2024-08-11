@@ -14,10 +14,7 @@ This project is a Discord Nitro Checker tool that automates the process of gener
 
 #### Project Structure:
 - **`main.py`**: The main script that runs the application.
-- **`generate.py`**: (Not shown in the provided code) Presumably used for generating codes or other related tasks.
 - **`run.bat`**: A batch file to run the script on Windows systems.
-- **`assets/`**: Directory containing resources used by the project.
-  - **`images/`**: Subdirectory for image files.
 - **`data/`**: Directory containing data files used by the project.
   - **`codes.txt`**: File containing generated codes.
   - **`invalid.txt`**: File containing invalid codes.
