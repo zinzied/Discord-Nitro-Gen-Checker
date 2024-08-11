@@ -1,6 +1,8 @@
 
 ### Discord Nitro Code Generator and Checker
 
+![image](https://github.com/user-attachments/assets/a5958211-6ed8-4dd9-9756-36cabc115007)
+
 This project is a Discord Nitro Checker tool that automates the process of generating and validating Discord Nitro gift codes. It uses multithreading to efficiently check multiple codes simultaneously and provides a progress bar to track the checking process.
 
 #### Features:
