@@ -61,4 +61,4 @@ This script will generate the specified number of codes, check their validity, a
 
 ---
 
-
+### GOOD LUCK WITH IT :)
